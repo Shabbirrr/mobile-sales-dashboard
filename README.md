@@ -49,9 +49,9 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![Overview](images/overview.png)
-![Sales Trend](images/sales-trend.png)
-![Geo Analysis](images/geo-analysis.png)
+![Overview](images/Overview.png)
+![Sales Trend](images/Sales-trend.png)
+![Geo Analysis](images/Geo-analysis.png)
 
 ---
 
